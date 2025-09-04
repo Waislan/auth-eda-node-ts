@@ -10,6 +10,7 @@
   "dependencies": {
     "@types/bcryptjs": "^2.4.6",
     "bcryptjs": "^2.4.3",
+    "dotenv": "^17.2.2",
     "express": "^4.21.2",
     "jsonwebtoken": "^9.0.2",
     "kafkajs": "^2.2.4",
